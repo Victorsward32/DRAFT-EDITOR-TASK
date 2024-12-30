@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DRAFT-EDITOR-TASK/static/css/main.54a9eb13.css",
+    "main.js": "/DRAFT-EDITOR-TASK/static/js/main.83ea8f47.js",
+    "static/js/488.111bff5f.chunk.js": "/DRAFT-EDITOR-TASK/static/js/488.111bff5f.chunk.js",
+    "index.html": "/DRAFT-EDITOR-TASK/index.html",
+    "main.54a9eb13.css.map": "/DRAFT-EDITOR-TASK/static/css/main.54a9eb13.css.map",
+    "main.83ea8f47.js.map": "/DRAFT-EDITOR-TASK/static/js/main.83ea8f47.js.map",
+    "488.111bff5f.chunk.js.map": "/DRAFT-EDITOR-TASK/static/js/488.111bff5f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54a9eb13.css",
+    "static/js/main.83ea8f47.js"
+  ]
+}
